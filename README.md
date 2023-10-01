@@ -1,1 +1,1 @@
-# Project-Based-Virtual-Intern-Data-Scientist-Kalbe-Nutritionals-x-Rakamin-Academy
+The purpose of this final task during the virtual internship at Kalbe Nutritionals is to create a predictive data model aimed at improving the company's operations. This involves optimizing competitive strategies and performing regression and clustering analyses using available data. Subsequently, it is important to craft visual materials to effectively communicate the solutions to clients. It is important to ensure that the visuals are clear, easily comprehensible, and communicative.
